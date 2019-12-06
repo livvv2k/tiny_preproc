@@ -1,7 +1,7 @@
 // Copyright (C) 2019 smiley3 <ml.smiley3@gmail.com>
 // SPDX-License-Identifier: GPL-2.0-or-later
 
-#include "tiny_pp.h"
+#include "tiny_preproc.h"
 
 #include <iostream>
 #include <sstream>
